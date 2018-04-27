@@ -1,0 +1,6 @@
+E:\2 курс 2 семестр\ксис\2\udp chat\udp_files\udp_files\udp_files\bin\Debug\udp_files.exe.config
+E:\2 курс 2 семестр\ксис\2\udp chat\udp_files\udp_files\udp_files\bin\Debug\udp_files.exe
+E:\2 курс 2 семестр\ксис\2\udp chat\udp_files\udp_files\udp_files\bin\Debug\udp_files.pdb
+E:\2 курс 2 семестр\ксис\2\udp chat\udp_files\udp_files\udp_files\obj\Debug\udp_files.csprojResolveAssemblyReference.cache
+E:\2 курс 2 семестр\ксис\2\udp chat\udp_files\udp_files\udp_files\obj\Debug\udp_files.exe
+E:\2 курс 2 семестр\ксис\2\udp chat\udp_files\udp_files\udp_files\obj\Debug\udp_files.pdb

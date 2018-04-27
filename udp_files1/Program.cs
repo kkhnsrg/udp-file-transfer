@@ -13,15 +13,14 @@ namespace udp_files
     class Program
     {
         static IPAddress remote_address;
-        const int remotePort = 8001;
+        const int remotePort = 8002;
         const int localPort = 8001;
         static string username;
         static string way;
         static void Main(string[] args)
         {
-            Console.WriteLine("Введите своё имя: ");
-            username = Console.ReadLine();
-            Console.WriteLine("Введите путь, куда будут сохраняться файлы:");
+            username = "USR2";
+            Console.WriteLine("Input path for saved files:");
             way = Console.ReadLine();
             way = way + '\\';
             remote_address = IPAddress.Parse("235.5.5.11");
@@ -76,8 +75,8 @@ namespace udp_files
                 while (true)
                 {
                     byte[] data = receiver.Receive(ref remoteIP);
-                    if (remoteIP.Address.ToString().Equals(localAddress))
-                        continue;
+                    //if (remoteIP.Address.ToString().Equals(localAddress))
+                        //continue;
                     string message = Encoding.Unicode.GetString(data);
                     path = way + '\\' + message;
                     using (FileStream fstream = new FileStream(@path, FileMode.Create))
