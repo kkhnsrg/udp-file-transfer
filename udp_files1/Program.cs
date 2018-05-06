@@ -37,6 +37,7 @@ namespace udp_files
             {
                 while (true)
                 {
+                    Console.WriteLine("Input full path for sending file: ");
                     string message = Console.ReadLine();
                     string tempway = Path.GetFileName(message);
                     byte[] array = Encoding.Unicode.GetBytes(tempway);
@@ -86,6 +87,7 @@ namespace udp_files
                         fstream.Write(arr,0,arr.Length);
                     }
                     //Console.WriteLine(message);
+                    Console.WriteLine("File receive.");
                 }
             }
             catch (Exception ex)

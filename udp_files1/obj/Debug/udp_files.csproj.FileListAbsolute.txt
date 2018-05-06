@@ -1,0 +1,7 @@
+C:\Users\mseko\Desktop\UDP-file-transfer\udp_files1\bin\Debug\udp_files.exe.config
+C:\Users\mseko\Desktop\UDP-file-transfer\udp_files1\bin\Debug\udp_files.exe
+C:\Users\mseko\Desktop\UDP-file-transfer\udp_files1\bin\Debug\udp_files.pdb
+C:\Users\mseko\Desktop\UDP-file-transfer\udp_files1\obj\Debug\udp_files.csprojResolveAssemblyReference.cache
+C:\Users\mseko\Desktop\UDP-file-transfer\udp_files1\obj\Debug\udp_files.csproj.CoreCompileInputs.cache
+C:\Users\mseko\Desktop\UDP-file-transfer\udp_files1\obj\Debug\udp_files.exe
+C:\Users\mseko\Desktop\UDP-file-transfer\udp_files1\obj\Debug\udp_files.pdb
